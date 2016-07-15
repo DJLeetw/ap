@@ -1,0 +1,149 @@
+*{
+font-family:'Palanquin','微軟正黑體', sans-serif;
+}
+
+h3, .h3 {
+  font-family:'Palanquin','微軟正黑體', sans-serif;
+  text-align: center;
+  color: #727171;
+}
+
+h4, .h4 {
+  font-family:'Palanquin','微軟正黑體', sans-serif;
+  color: #727171;
+}
+
+h5, .h5 {
+  font-family:'Palanquin','微軟正黑體', sans-serif;
+  text-align: center;
+  color: #727171;
+}
+
+@media (max-width: 767px) {
+}
+
+@media (max-width: 480px) {
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+  body{
+    margin: 0 ;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+}
+
+@media (min-width: 980px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+.FEATURE{
+  margin: 0 auto;
+  background-color: #00AEEF;
+  height: auto;
+  text-align: center;
+  background-image:url(../images/howitwork_pic.jpg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.DOWNLOAD{
+  padding: 100px 0;
+
+}
+.DOWNLOAD_BOX{
+  display: block;
+/*  margin: 30px 0px;*/
+/*border: 1px solid #00AEEF;*/
+  padding: 30px 15px ;
+}
+.DOWNLOAD_BOX img{
+  margin: 0 auto;
+margin-top: 30px;
+margin-bottom: 20px;
+}
+.DOWNLOAD_BOX p{
+  text-align: center;
+  font-size: 18px;
+  line-height: 50px;
+  font-family: å¾®è»Ÿæ­£é»‘é«”;
+  padding-bottom: 40px;
+}
+.DOWNLOAD_BOX .p1{
+  text-align: center;
+  font-size: 18px;
+  line-height: 50px;
+  font-family: å¾®è»Ÿæ­£é»‘é«”;
+
+}
+
+.DOWNLOAD_BOX .p2{
+  text-align: center;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: å¾®è»Ÿæ­£é»‘é«”;
+  padding: 0 50px;
+  color: #808285;
+}
+
+.DOWNLOAD_BOX h2{
+font-weight:bolder;
+color: #00C0F3;
+text-align: center;
+
+}
+　.DOWNLOAD_BOX a{
+  margin: 0 auto;
+  text-align: center;
+}
+
+#DEEP{
+  margin: 0;
+  padding:0;
+  margin: 0 auto;
+  background-image:url(../images/howitwork_pic.jpg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+  display: block;
+  padding-top: 80px;
+  /*padding-bottom: 50px;*/
+  min-height: 600px;
+  padding-bottom: 0px;
+}
+
+
+.BUTTON_BOX{
+  margin:0 auto;
+  display:block;
+  background:#00C0F3;
+  border-radius:0px;
+  color:#FFFFFF;
+
+  margin-top: 20px;
+
+  font-size:1.3em;
+  font-weight:400;
+  letter-spacing:0.2em;
+  text-align: center;
+  padding:0.7em 0;
+  text-decoration:none;
+  text-transform:uppercase;
+  transition:background 0.3s ease-in-out;
+
+
+}
+
+.DOWNLOAD_BOX a:hover{
+    display:block;
+background-color:#3C55A4;
+color:#00C0F3;
+
+}
